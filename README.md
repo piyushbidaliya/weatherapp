@@ -12,7 +12,7 @@ OpenWeatherMap API: Service providing weather data.
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/piyushbidaliya/weatherapp.git
 Navigate to the project directory:
 cd weather-app
 Install the required dependencies:
